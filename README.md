@@ -5,6 +5,7 @@ Pedro Lucas de Oliveira Costa - 8127, Thiago Matheus de Oliveira Costa - 8101
 
 Projeto em python desenvolvido para o treinamento de modelos de CNN sobre o dataset Crop Pest and Disease Detection utilizando o framework torchvision com
 otimização de hyperparametros por meio do arquivo grid-search.py e teste integrado de multiplas estrategias de aumento de dados no arquivo train_test_batch.
+Ao final da execução gera os resultados e analises  por matriz de confusão e metricas como, Acurácia, Precisão, Recall e F1-score.
 
 ## IMPORTANTE
 
