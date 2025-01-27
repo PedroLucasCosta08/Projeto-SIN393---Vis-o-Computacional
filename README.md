@@ -97,6 +97,9 @@ fuser -v /dev/nvidia*
 kill -9 44525
 ```
 
+## LINK PARA VIDEO NO YOUTUBE 
+https://youtu.be/BtH6ZMVEuSI
+
 * List Python processes
 ```
     $ ps -ef | grep python
