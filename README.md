@@ -70,12 +70,12 @@ O Dataset Crop Pest and Disease Detection possui arquivos defeituosos que impede
     $ nohup python grid-search.py --arch resnet50 --optimizer Adam &
 ```
 
-* Pick up the best hyperparameter values
+* Escolha os melhores valores de hiperparametros
 
 ### Experimentos principais
 
-* Run each experiment throug CNNpestes.py, or...
-* Set the experiments thall will run in the train_test_batch.py
+* Execute cada experimento através do arquivo CNNpestes.py, ou...
+* Defina os experimentos que serão executados no arquivo train_test_batch.py.
 
 ```
     $ nohup python train_test_batch.py
